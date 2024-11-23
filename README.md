@@ -1,4 +1,4 @@
-# Lanoratorios Big Data  
+# Laboratorios Big Data  
 
 ### **Curso:** ST0263 - Tópicos Especiales en Telemática
 ### **Título:** Big Data  
