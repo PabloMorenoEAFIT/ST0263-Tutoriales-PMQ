@@ -1,46 +1,32 @@
-# Proyecto 2 
----
+# Lanoratorios Big Data  
 
 ### **Curso:** ST0263 - Tópicos Especiales en Telemática
-### **Título:** Proyecto 2 
+### **Título:** Big Data  
 ### **Objetivo:**
 
-Desplegar una aplicación en un clúster Kubernetes de alta disponibilidad utilizando la distribución MicroK8s.
+Desarrollar competencias para el uso correcto de AWS EMR, AWS S3, HDFS, HIVE, SPARKQL, PYSPARK. Con enfoque en manejo grandes volúmenes de datos
 
-### **Estudiantes:**
+### **Estudiante:**
 - Pablo Moreno Quintero
-- Samuel Salazar Salazar
-- Juan Sebastian Camacho
 
 ### Profesor: 
 Edwin Montoya - emontoya@eafit.edu.co
 ---
-### LINK DE LA SUSTENTACIÓN
-[https://eafit-my.sharepoint.com/:v:/g/personal/pmorenoq_eafit_edu_co/EQ3lApaYkQJAtxwj9dlnTIUB5GULsTciGtI2Di3Wl_m0ng?e=dQ41Iq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://eafit-my.sharepoint.com/:v:/g/personal/pmorenoq_eafit_edu_co/EQ3lApaYkQJAtxwj9dlnTIUBAzDJYQ3kTV09LBAm44xdmQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
----
 ### 1. Descripción de la actividad
 
-Se hizo un cluster de Kubernetes de alta disponibilidad utilizando kubernetes en la plataforma GCP con una infraestructura de Infraestructura Como Servicio (IaaS). 
-
-El proyecto se basa en un CMS desplegado en un cluster de kubernetes creados bajo microk8s, donde para nuestro caso se dispone de un mínimo de 3 máquinas virtuales autoescalables.
+Desarrollar una serie de laboratorios con el proposito de recrear una guía para la fácil replicación de las actividades propuestas.
 ---
 ### 1.1 Aspectos cumplidos del proyecto
 
-- Cluster de kubernetes implementando microk8s
-- Dominio propio: 
-- Configuracion de certificado SSL
-- 6 nodos creados
-  - Master
-  - Wordpress 1
-  - Wordpress 2
-  - NFS
-  - MYSQL 1
-  - MYSQL 2
-
-  
+- Realización del laboratorio 0
+- Realización del laboratorio 1
+- Realización del laboratorio 2
+- Realización del laboratorio 3
 ---
 ### 1.2 Aspectos no cumplidos
-- Aspectos funcionales de la entrega
+(No Aplica)
 ---
-### 2. Arquitectura implementada
+### 2. Arquitectura
+![image](https://github.com/user-attachments/assets/01f9a74a-5386-413b-ad93-f9064bd0bb12)
+
 ---
