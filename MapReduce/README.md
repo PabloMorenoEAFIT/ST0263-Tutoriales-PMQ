@@ -1,9 +1,7 @@
-# Universidad EAFIT
 # Curso ST0263 Tópicos Especiales en Telemática, 2024-2
 
-# Demo MapReduce en Python con MRJOB
-
-# WordCount en python
+## Demo MapReduce en Python con MRJOB
+## WordCount en python
 
 * correr la versión serial / secuencial asumimiendo todos los datos locales:
 
