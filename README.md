@@ -30,7 +30,7 @@ Desarrollar una serie de laboratorios con el proposito de recrear una guía para
 ![image](https://github.com/user-attachments/assets/01f9a74a-5386-413b-ad93-f9064bd0bb12)
 
 ---
-### 3. Descripción del proyecto
+### 3. Información adicional del proyecto
 #### Características de Big Data utilizando EMR de AWS
 
 Amazon EMR (Elastic MapReduce) es una solución escalable y gestionada que permite procesar y analizar grandes volúmenes de datos mediante herramientas de Big Data en un clúster. Este servicio facilita la integración de tecnologías populares para el análisis de datos, ofreciendo flexibilidad y alta disponibilidad.
