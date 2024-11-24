@@ -18,10 +18,11 @@ Desarrollar una serie de laboratorios con el proposito de recrear una guía para
 ---
 ### 1.1 Aspectos cumplidos del proyecto
 
-- Realización del laboratorio 0
-- Realización del laboratorio 1
-- Realización del laboratorio 2
-- Realización del laboratorio 3
+- Realización del laboratorio 0 / Guía: [https://github.com/PabloMorenoEAFIT/ST0263-Tutoriales-PMQ/blob/main/L0-AWS-EMR/L0-AWS-EMR.pdf]
+- Realización del laboratorio 1 / Guía: [https://github.com/PabloMorenoEAFIT/ST0263-Tutoriales-PMQ/blob/main/L1-HDFS-HUE-S3/L1-HUE-HDFS.pdf]
+- Realización del laboratorio 2 / Guía: [https://github.com/PabloMorenoEAFIT/ST0263-Tutoriales-PMQ/blob/main/L2-HIVE-SPARKSQL/L2-HIVE-SPARKQL.pdf]
+- Realización del laboratorio 3 / Guía: [https://github.com/PabloMorenoEAFIT/ST0263-Tutoriales-PMQ/blob/main/L3-NOTEBOOKS-SPARK/L3-NOTEBOOKS-SPARK.pdf]
+- Realización del laboratorio Map Reduce
 ---
 ### 1.2 Aspectos no cumplidos
 (No Aplica)
