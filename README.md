@@ -14,7 +14,7 @@ Edwin Montoya - emontoya@eafit.edu.co
 ---
 ### 1. Descripción de la actividad
 
-Desarrollar una serie de laboratorios con el proposito de recrear una guía para la fácil replicación de las actividades propuestas.
+Desarrollar una serie de laboratorios con el proposito de recrear una guía para la fácil replicación de las actividades propuestas en https://github.com/st0263eafit/st0263-242/tree/main/bigdata.
 ---
 ### 1.1 Aspectos cumplidos del proyecto
 
