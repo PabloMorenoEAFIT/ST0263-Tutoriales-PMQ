@@ -125,6 +125,15 @@ Amazon S3 (Simple Storage Service) es un almacenamiento escalable utilizado en E
 - Data lakes para análisis en múltiples servicios.
 
 ---
+## Conexiones Entre Servicios en EMR
+
+1. **Spark y Hive**: SparkSQL puede integrarse con el metastore de Hive para consultas más avanzadas.
+2. **Spark y S3**: Spark utiliza `s3a` para acceder directamente a los datos almacenados en Amazon S3.
+3. **Hive y S3**: HiveQL permite cargar tablas desde S3 o almacenar resultados de consultas directamente en buckets.
+4. **Hue y EMR**: Hue actúa como un panel unificado para gestionar consultas y trabajos en el clúster.
+5. **Zeppelin y PySpark**: Zeppelin ejecuta scripts interactivos que usan PySpark para análisis en tiempo real.
+
+---
 
 ## Beneficios Generales de Utilizar EMR
 
