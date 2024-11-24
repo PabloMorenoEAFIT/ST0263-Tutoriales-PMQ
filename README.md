@@ -15,7 +15,7 @@ Edwin Montoya - emontoya@eafit.edu.co
 ### 1. Descripción de la actividad
 
 Desarrollar una serie de laboratorios con el proposito de recrear una guía para la fácil replicación de las actividades propuestas en [la página del curso](https://github.com/st0263eafit/st0263-242/tree/main/bigdata).
----0
+---
 ### 1.1 Aspectos cumplidos del proyecto
 
 - Realización del laboratorio 0 / [Guía](https://github.com/PabloMorenoEAFIT/ST0263-Tutoriales-PMQ/blob/main/L0-AWS-EMR/L0-AWS-EMR.pdf)
